@@ -1,6 +1,6 @@
-# Quick disclamer
-This fork is intended to use as a base for another project. Most information below **Hasn't and wont be updated unless nesecary**
-I'll link the actual project once I've finished the repo and set it as public.
+# Quick disclaimer
+This fork is intended to use as a base for another project. Most information below **HASEN'T AND WON'T BE UPDATED UNLESS ABSOLUTLY NESECARY**.  
+I'll link the actual project once I've finished the repo and set it as public.  
 
 # OpenViva
 
