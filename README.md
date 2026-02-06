@@ -1,3 +1,7 @@
+# Quick disclamer
+This fork is intended to use as a base for another project. Most information below **Hasn't and wont be updated unless nesecary**
+I'll link the actual project once I've finished the repo and set it as public.
+
 # OpenViva
 
 [![Discord](https://discordapp.com/api/guilds/730428444256632943/widget.png?style=shield)](https://discord.com/invite/w7rFnssghW)
